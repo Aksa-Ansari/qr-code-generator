@@ -11,7 +11,7 @@ A simple QR Code Generator using HTML, CSS and Javascript.
 ## Live Demo
 [Click here](https://aksa-ansari.github.io/qr-code-generator/)
 
-## Built With
+## Build With
 - HTML
 - CSS
 - JavaScript
